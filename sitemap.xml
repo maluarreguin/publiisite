@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://maluarreguin.github.io/publiisite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://maluarreguin.github.io/publiisite/</loc>
+</url>
+<url>
+<loc>https://maluarreguin.github.io/publiisite/final-project.html</loc>
+<lastmod>2022-10-24T19:48:32-07:00</lastmod>
+</url>
+<url>
+<loc>https://maluarreguin.github.io/publiisite/post-two.html</loc>
+<lastmod>2022-10-24T13:33:55-07:00</lastmod>
+<image:image>
+<image:loc>https://maluarreguin.github.io/publiisite/media/posts/2/gallery/Screen-Shot-2022-10-19-at-2.54.24-PM-thumbnail.png</image:loc>
+<image:title><![CDATA[me last week at work ily ucla]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://maluarreguin.github.io/publiisite/website-yay.html</loc>
+<lastmod>2022-10-24T12:42:36-07:00</lastmod>
+</url>
+</urlset>
